@@ -1,0 +1,1 @@
+ollama create emma -f emma.Modelfile
